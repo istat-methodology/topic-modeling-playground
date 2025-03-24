@@ -1,5 +1,5 @@
 <h1 align="center">
-  Topic Modeling Lab
+  Topic Modeling Playground
 </h1>
 <div align="center">
   
