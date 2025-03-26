@@ -1,0 +1,10 @@
+pandas
+numpy
+nltk
+beautifulsoup4
+scikit-learn
+datasets
+tqdm
+gensim
+matplotlib
+pyLDAvis
